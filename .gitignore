@@ -1,4 +1,4 @@
-rpmbuild
-rpmbuild/*
+src
+src/*
 .vagrant/
 .vagrant/*
