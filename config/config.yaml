@@ -1,0 +1,5 @@
+packager_username: vagrant
+git_config:
+  name: Foo Bar
+  email: foobar@example.com
+
